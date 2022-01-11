@@ -8312,6 +8312,14 @@ PrefabInstance:
       propertyPath: m_LookAt
       value: 
       objectReference: {fileID: 1648323285}
+    - target: {fileID: 245495878988278935, guid: b0836ba82437a274c8d36675ef2ae7dd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000020635985
+      objectReference: {fileID: 0}
+    - target: {fileID: 245495878988278935, guid: b0836ba82437a274c8d36675ef2ae7dd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.00000001466586
+      objectReference: {fileID: 0}
     - target: {fileID: 245495879278042850, guid: b0836ba82437a274c8d36675ef2ae7dd, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -8359,6 +8367,14 @@ PrefabInstance:
     - target: {fileID: 245495879278042853, guid: b0836ba82437a274c8d36675ef2ae7dd, type: 3}
       propertyPath: m_Name
       value: cameras
+      objectReference: {fileID: 0}
+    - target: {fileID: 245495879622954219, guid: b0836ba82437a274c8d36675ef2ae7dd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000020635985
+      objectReference: {fileID: 0}
+    - target: {fileID: 245495879622954219, guid: b0836ba82437a274c8d36675ef2ae7dd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.00000001466586
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0836ba82437a274c8d36675ef2ae7dd, type: 3}
@@ -8583,6 +8599,10 @@ PrefabInstance:
       propertyPath: vcam
       value: 
       objectReference: {fileID: 96517073}
+    - target: {fileID: 5092472768529108550, guid: 12be227d5895d5d4ea86d8ba15d0b34a, type: 3}
+      propertyPath: dragSpeed
+      value: 0.19
+      objectReference: {fileID: 0}
     - target: {fileID: 5092472768538143403, guid: 12be227d5895d5d4ea86d8ba15d0b34a, type: 3}
       propertyPath: _spline
       value: 

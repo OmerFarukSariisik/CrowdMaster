@@ -189,7 +189,7 @@ public class MyStack : MonoBehaviour
     {
         foreach (Minion item in minions)
         {
-            yield return new WaitForSeconds(0.11f);
+            yield return new WaitForSeconds(0.07f);
             
             if(item != null)
             {

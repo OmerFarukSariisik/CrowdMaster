@@ -11707,6 +11707,10 @@ PrefabInstance:
       propertyPath: vcam
       value: 
       objectReference: {fileID: 96517073}
+    - target: {fileID: 5092472768529108550, guid: 12be227d5895d5d4ea86d8ba15d0b34a, type: 3}
+      propertyPath: dragSpeed
+      value: 0.19
+      objectReference: {fileID: 0}
     - target: {fileID: 5092472768538143403, guid: 12be227d5895d5d4ea86d8ba15d0b34a, type: 3}
       propertyPath: _spline
       value: 
